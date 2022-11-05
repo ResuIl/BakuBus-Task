@@ -1,24 +1,27 @@
 ﻿using Microsoft.Maps.MapControl.WPF;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-using System;
 using System.Collections.Generic;
+using System;
+using System.Windows;
+using System.Windows.Threading;
+using WPF_HomeWork_15.Models;
+using Newtonsoft.Json.Linq;
+using Newtonsoft.Json;
 using System.Globalization;
 using System.IO;
 using System.Net.Http;
-using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
-using System.Windows.Threading;
 using JsonSerializer = System.Text.Json.JsonSerializer;
 
-namespace WPF_HomeWork_15;
+#nullable disable
 
-public partial class MainWindow : Window
+namespace WPF_HomeWork_15.Views;
+
+public partial class MainView : Window
 {
-    Dictionary<string, string> BakuBusLines = new Dictionary<string, string>() 
+    Dictionary<string, string> BakuBusLines = new Dictionary<string, string>()
     {
-        {"M8",  "11156"}, {"M3", "11050"}, {"M2", "11049"}, {"M1", "11048"}, {"Q1", "11155"}, {"1", "11032"}, 
+        {"M8",  "11156"}, {"M3", "11050"}, {"M2", "11049"}, {"M1", "11048"}, {"Q1", "11155"}, {"1", "11032"},
         {"2", "11035"}, {"3", "11037"}, {"5", "11031"}, {"6", "11033"}, {"7B", "11046"}, {"7A", "11045"}, {"10", "11150"},
         {"11", "11056"}, {"13", "11039"}, {"14", "11036"}, {"17", "11043"}, {"21", "11040"}, {"24", "11151"}, {"30", "11055"},
         {"32", "11152"}, {"35", "11153"}, {"88", "11047"}, {"88A", "11034"}, {"125", "11041"}, {"175", "11044"}, {"205", "11158"},
@@ -33,22 +36,22 @@ public partial class MainWindow : Window
     private int SelectedIndex = -1;
     private bool canRequest = true;
 
-    private BakuBus? _bakuBus;
-    public BakuBus? BakuBus
+    private BakuBus _bakuBus;
+    public BakuBus BakuBus
     {
         get { return _bakuBus; }
         set { _bakuBus = value; LoadBus(); }
     }
 
-    public MainWindow()
+    public MainView()
     {
         InitializeComponent();
-        BingMap.CredentialsProvider = new ApplicationIdCredentialsProvider(System.Configuration.ConfigurationManager.AppSettings["mapApi"]);   
+        BingMap.CredentialsProvider = new ApplicationIdCredentialsProvider(System.Configuration.ConfigurationManager.AppSettings["mapApi"]);
         DataContext = this;
-        timer.Interval = new TimeSpan(0, 0, 0, 1);
+        timer.Interval = new TimeSpan(0, 0, 0, 3);
     }
 
-    private async void Window_Loaded(object sender, RoutedEventArgs e)
+    private void Window_Loaded(object sender, RoutedEventArgs e)
     {
         timer.Tick += new EventHandler(timerTick_event);
         GetBusListAsync();
@@ -76,7 +79,7 @@ public partial class MainWindow : Window
                             var jsonString = (JsonConvert.DeserializeObject(await new HttpClient().GetStringAsync("https://www.bakubus.az/az/ajax/getPaths/" + BakuBusLines[SelectedBus])) as JObject)["Forward"]["busstops"];
                             foreach (var item in jsonString)
                                 locs.Add(new Location(double.Parse(item["latitude"].ToString(), NumberStyles.Float, CultureInfo.CreateSpecificCulture("fr-FR")), double.Parse(item["longitude"].ToString(), NumberStyles.Float, CultureInfo.CreateSpecificCulture("fr-FR"))));
-                            
+
                             canRequest = false;
                         }
                         catch (Exception)
@@ -90,20 +93,20 @@ public partial class MainWindow : Window
                     {
                         MapPolyline routeLine = new MapPolyline() { Locations = locs, Stroke = new SolidColorBrush(Colors.Blue), StrokeThickness = 5 };
                         BingMap.Children.Add(routeLine);
-                    } 
+                    }
 
                     Pushpin pin = new Pushpin() { Location = new Location(double.Parse(BakuBus.Buses[i].Attributes.LATITUDE, NumberStyles.Float, CultureInfo.CreateSpecificCulture("fr-FR")), double.Parse(BakuBus.Buses[i].Attributes.LONGITUDE, NumberStyles.Float, CultureInfo.CreateSpecificCulture("fr-FR"))), Template = (ControlTemplate)this.FindResource("customPushPin"), Content = BakuBus.Buses[i].Attributes.DISPLAY_ROUTE_CODE, Background = new SolidColorBrush(System.Windows.Media.Color.FromArgb(255, (byte)rnd.Next(256), (byte)rnd.Next(256), (byte)rnd.Next(256))) };
                     BingMap.Children.Add(pin);
                 }
-            } 
+            }
             else
             {
                 if (!lBox.Items.Contains(BakuBus.Buses[i].Attributes.DISPLAY_ROUTE_CODE))
                     lBox.Items.Add(BakuBus.Buses[i].Attributes.DISPLAY_ROUTE_CODE);
-                lBox.Items.SortDescriptions.Add(new System.ComponentModel.SortDescription("",System.ComponentModel.ListSortDirection.Ascending));
+                lBox.Items.SortDescriptions.Add(new System.ComponentModel.SortDescription("", System.ComponentModel.ListSortDirection.Ascending));
                 Pushpin pin = new Pushpin() { Location = new Location(double.Parse(BakuBus.Buses[i].Attributes.LATITUDE, NumberStyles.Float, CultureInfo.CreateSpecificCulture("fr-FR")), double.Parse(BakuBus.Buses[i].Attributes.LONGITUDE, NumberStyles.Float, CultureInfo.CreateSpecificCulture("fr-FR"))), Template = (ControlTemplate)this.FindResource("customPushPin"), Content = BakuBus.Buses[i].Attributes.DISPLAY_ROUTE_CODE, Background = new SolidColorBrush(System.Windows.Media.Color.FromArgb(255, (byte)rnd.Next(256), (byte)rnd.Next(256), (byte)rnd.Next(256))) };
                 BingMap.Children.Add(pin);
-            } 
+            }
         }
     }
 
@@ -113,7 +116,7 @@ public partial class MainWindow : Window
         if (bool.Parse(System.Configuration.ConfigurationManager.AppSettings["UseApi"]))
             jsonString = await new HttpClient().GetStringAsync("https://www.bakubus.az/az/ajax/apiNew1");
         else
-            jsonString = await File.ReadAllTextAsync(Path.Combine(new DirectoryInfo($"../../../").FullName, "bakubusApi.json"));
+            jsonString = await File.ReadAllTextAsync(Path.Combine(new DirectoryInfo($"../../../Services/").FullName, "bakubusApi.json"));
         BakuBus = JsonSerializer.Deserialize<BakuBus>(jsonString);
     }
 
@@ -121,7 +124,7 @@ public partial class MainWindow : Window
 
     private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
     {
-        
+
         if (SelectedIndex == -1)
         {
             SelectedBus = lBox.SelectedValue.ToString();

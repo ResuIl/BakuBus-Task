@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text.Json.Serialization;
 #nullable disable
 
-namespace WPF_HomeWork_15;
+namespace WPF_HomeWork_15.Models;
 
 public class Attributes
 {
