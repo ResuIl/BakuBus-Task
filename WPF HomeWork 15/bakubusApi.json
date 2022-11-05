@@ -1,0 +1,3844 @@
+{
+  "BUS": [
+    {
+      "@attributes": {
+        "BUS_ID": "15692",
+        "PLATE": "15692",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,379335999999995",
+        "LONGITUDE": "49,824594333333337",
+        "ROUTE_NAME": "G\u00fclar\u0259 \u018fliyeva park\u0131 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "LAST_UPDATE_TIME": 1667657356,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15666",
+        "PLATE": "15666",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 1 dayanacaq 2",
+        "CURRENT_STOP": "Yeni Yasamal Park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,423362500000003",
+        "LONGITUDE": "49,916016833333330",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 1 dayanacaq 2 - Yeni Yasamal Park\u0131",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "7B"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15669",
+        "PLATE": "15669",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,383594833333333",
+        "LONGITUDE": "49,823420500000005",
+        "ROUTE_NAME": "G\u00fclar\u0259 \u018fliyeva park\u0131 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15676",
+        "PLATE": "15676",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "G\u0259nc\u0259 prospekti 39",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,404393833333330",
+        "LONGITUDE": "49,808439833333324",
+        "ROUTE_NAME": "G\u0259nc\u0259 prospekti 39 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "7A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15697",
+        "PLATE": "15697",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yeni Yasamal Park\u0131",
+        "CURRENT_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,410316999999999",
+        "LONGITUDE": "49,858472166666658",
+        "ROUTE_NAME": "Yeni Yasamal Park\u0131 - 11 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15589",
+        "PLATE": "15589",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "20-ci sah\u0259",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,379405833333330",
+        "LONGITUDE": "49,844308166666664",
+        "ROUTE_NAME": "20-ci sah\u0259 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15590",
+        "PLATE": "15590",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "CURRENT_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,325649333333331",
+        "LONGITUDE": "49,819915499999993",
+        "ROUTE_NAME": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259 - Azadl\u0131q metro stansiyas\u0131",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "6"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15592",
+        "PLATE": "15592",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,411872166666662",
+        "LONGITUDE": "49,941908666666663",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b)",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15593",
+        "PLATE": "15593",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yeni Yasamal Park\u0131",
+        "CURRENT_STOP": "Koro\u011flu NMM perron 1 dayanacaq 2",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,413419166666671",
+        "LONGITUDE": "49,848519333333329",
+        "ROUTE_NAME": "Yeni Yasamal Park\u0131 - Koro\u011flu NMM perron 1 dayanacaq 2",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "7B"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15636",
+        "PLATE": "15636",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yeni Yasamal Park\u0131",
+        "CURRENT_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,387560666666666",
+        "LONGITUDE": "49,830079166666671",
+        "ROUTE_NAME": "Yeni Yasamal Park\u0131 - 11 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15637",
+        "PLATE": "15637",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "20-ci sah\u0259",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,425295333333331",
+        "LONGITUDE": "49,845746999999996",
+        "ROUTE_NAME": "20-ci sah\u0259 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15640",
+        "PLATE": "15640",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yeni Yasamal Park\u0131",
+        "CURRENT_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,382370500000000",
+        "LONGITUDE": "49,816327666666666",
+        "ROUTE_NAME": "Yeni Yasamal Park\u0131 - 11 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15641",
+        "PLATE": "15641",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "Yeni Yasamal Park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,391319833333334",
+        "LONGITUDE": "49,834195000000001",
+        "ROUTE_NAME": "11 sayl\u0131 m\u0259kt\u0259b - Yeni Yasamal Park\u0131",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15567",
+        "PLATE": "15567",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,364956333333332",
+        "LONGITUDE": "49,817900999999999",
+        "ROUTE_NAME": "G\u00fclar\u0259 \u018fliyeva park\u0131 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15568",
+        "PLATE": "15568",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,414645666666665",
+        "LONGITUDE": "49,852795000000000",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15581",
+        "PLATE": "15581",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,389253000000004",
+        "LONGITUDE": "49,825876833333332",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15583",
+        "PLATE": "15583",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yeni Yasamal Park\u0131",
+        "CURRENT_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,391739999999999",
+        "LONGITUDE": "49,844300999999994",
+        "ROUTE_NAME": "Yeni Yasamal Park\u0131 - 11 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15586",
+        "PLATE": "15586",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "CURRENT_STOP": "G\u0259nc\u0259 prospekti 39",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,413263166666667",
+        "LONGITUDE": "49,801863500000003",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11 - G\u0259nc\u0259 prospekti 39",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "7A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15634",
+        "PLATE": "15634",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,376685500000001",
+        "LONGITUDE": "49,832087166666660",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15680",
+        "PLATE": "15680",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 1 dayanacaq 2",
+        "CURRENT_STOP": "Yeni Yasamal Park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,425789333333334",
+        "LONGITUDE": "49,907249500000006",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 1 dayanacaq 2 - Yeni Yasamal Park\u0131",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "7B"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15702",
+        "PLATE": "15702",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 1 dayanacaq 2",
+        "CURRENT_STOP": "Yeni Yasamal Park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,417720166666662",
+        "LONGITUDE": "49,857364499999996",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 1 dayanacaq 2 - Yeni Yasamal Park\u0131",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "7B"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15713",
+        "PLATE": "15713",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,377651833333331",
+        "LONGITUDE": "49,843367500000006",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15714",
+        "PLATE": "15714",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,398675666666669",
+        "LONGITUDE": "49,797056166666671",
+        "ROUTE_NAME": "11 sayl\u0131 m\u0259kt\u0259b - S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "211"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15735",
+        "PLATE": "15735",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "20-ci sah\u0259",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,432452333333337",
+        "LONGITUDE": "49,854968833333338",
+        "ROUTE_NAME": "20-ci sah\u0259 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15752",
+        "PLATE": "15752",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "CURRENT_STOP": "20-ci sah\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,417004333333331",
+        "LONGITUDE": "49,836845166666670",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4 - 20-ci sah\u0259",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15543",
+        "PLATE": "15543",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b)",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,417973166666670",
+        "LONGITUDE": "49,932538833333332",
+        "ROUTE_NAME": "Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b) - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15604",
+        "PLATE": "15604",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "CURRENT_STOP": "G\u0259nc\u0259 prospekti 39",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,398608500000002",
+        "LONGITUDE": "49,815460666666667",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11 - G\u0259nc\u0259 prospekti 39",
+        "LAST_UPDATE_TIME": 1667657350,
+        "DISPLAY_ROUTE_CODE": "7A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15620",
+        "PLATE": "15620",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "CURRENT_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,420608666666666",
+        "LONGITUDE": "49,837481666666662",
+        "ROUTE_NAME": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259 - Azadl\u0131q metro stansiyas\u0131",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "6"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15623",
+        "PLATE": "15623",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "CURRENT_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,424244999999999",
+        "LONGITUDE": "49,846266166666659",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5 - G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15630",
+        "PLATE": "15630",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "Yeni Yasamal Park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,385429999999999",
+        "LONGITUDE": "49,805342333333328",
+        "ROUTE_NAME": "11 sayl\u0131 m\u0259kt\u0259b - Yeni Yasamal Park\u0131",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15635",
+        "PLATE": "15635",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "CURRENT_STOP": "G\u0259nc\u0259 prospekti 39",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,420837666666664",
+        "LONGITUDE": "49,799368166666667",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11 - G\u0259nc\u0259 prospekti 39",
+        "LAST_UPDATE_TIME": 1667657357,
+        "DISPLAY_ROUTE_CODE": "7A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15649",
+        "PLATE": "15649",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "CURRENT_STOP": "G\u0259nc\u0259 prospekti 39",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,368553666666671",
+        "LONGITUDE": "49,959873166666661",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11 - G\u0259nc\u0259 prospekti 39",
+        "LAST_UPDATE_TIME": 1667657365,
+        "DISPLAY_ROUTE_CODE": "7A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15715",
+        "PLATE": "15715",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,407903166666664",
+        "LONGITUDE": "49,863820833333328",
+        "ROUTE_NAME": "11 sayl\u0131 m\u0259kt\u0259b - S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "211"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15719",
+        "PLATE": "15719",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Azneft meydan\u0131",
+        "CURRENT_STOP": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,313402333333336",
+        "LONGITUDE": "49,736411833333342",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "125"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15722",
+        "PLATE": "15722",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,419145000000000",
+        "LONGITUDE": "49,842716166666669",
+        "ROUTE_NAME": "Azadl\u0131q metro stansiyas\u0131 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657365,
+        "DISPLAY_ROUTE_CODE": "88A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15740",
+        "PLATE": "15740",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "CURRENT_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,367787000000000",
+        "LONGITUDE": "49,816965333333336",
+        "ROUTE_NAME": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259 - Azadl\u0131q metro stansiyas\u0131",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "6"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15744",
+        "PLATE": "15744",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,425486666666664",
+        "LONGITUDE": "49,860113166666665",
+        "ROUTE_NAME": "G\u00fclar\u0259 \u018fliyeva park\u0131 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15745",
+        "PLATE": "15745",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Ma\u015fta\u011fa q\u0259s\u0259b\u0259si Ab\u015feron k\u00fc\u00e7\u0259si",
+        "CURRENT_STOP": "G\u0259nclik metro stansiyas\u0131 G\u0259nclik Mall",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,533713166666665",
+        "LONGITUDE": "50,004136000000003",
+        "ROUTE_NAME": "Ma\u015fta\u011fa q\u0259s\u0259b\u0259si Ab\u015feron k\u00fc\u00e7\u0259si - G\u0259nclik metro stansiyas\u0131 G\u0259nclik Mall",
+        "LAST_UPDATE_TIME": 1667657356,
+        "DISPLAY_ROUTE_CODE": "M8"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15751",
+        "PLATE": "15751",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "153 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+        "CURRENT_STOP": "L\u00f6kbatan N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi perron 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,394770333333334",
+        "LONGITUDE": "49,804909166666661",
+        "ROUTE_NAME": "153 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131 - L\u00f6kbatan N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi perron 4",
+        "LAST_UPDATE_TIME": 1667657351,
+        "DISPLAY_ROUTE_CODE": "205"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15647",
+        "PLATE": "15647",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,400175166666671",
+        "LONGITUDE": "49,838185333333328",
+        "ROUTE_NAME": "Azadl\u0131q metro stansiyas\u0131 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "88A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15402",
+        "PLATE": "15402",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "CURRENT_STOP": "Koro\u011flu NMM perron 1 dayanacaq 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,394147166666670",
+        "LONGITUDE": "49,868188333333336",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12 - Koro\u011flu NMM perron 1 dayanacaq 1",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15415",
+        "PLATE": "15415",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "CURRENT_STOP": "Koro\u011flu NMM perron 1 dayanacaq 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,395023999999999",
+        "LONGITUDE": "49,861103166666666",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12 - Koro\u011flu NMM perron 1 dayanacaq 1",
+        "LAST_UPDATE_TIME": 1667657356,
+        "DISPLAY_ROUTE_CODE": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15419",
+        "PLATE": "15419",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,312092833333331",
+        "LONGITUDE": "49,735900000000008",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "125"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15533",
+        "PLATE": "15533",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid",
+        "CURRENT_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,326519166666671",
+        "LONGITUDE": "49,782597666666668",
+        "ROUTE_NAME": "S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid - 11 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "211"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15548",
+        "PLATE": "15548",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b)",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,425024833333332",
+        "LONGITUDE": "49,920435500000004",
+        "ROUTE_NAME": "Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b) - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15625",
+        "PLATE": "15625",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,424034499999998",
+        "LONGITUDE": "49,838306333333335",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - Azadl\u0131q metro stansiyas\u0131",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "88A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15650",
+        "PLATE": "15650",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "CURRENT_STOP": "20-ci sah\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,426445166666667",
+        "LONGITUDE": "49,844378166666665",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4 - 20-ci sah\u0259",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15673",
+        "PLATE": "15673",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,402133166666665",
+        "LONGITUDE": "49,806485833333333",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15729",
+        "PLATE": "15729",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,302585999999998",
+        "LONGITUDE": "49,765457666666663",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "125"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15747",
+        "PLATE": "15747",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "153 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+        "CURRENT_STOP": "L\u00f6kbatan N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi perron 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,360429666666661",
+        "LONGITUDE": "49,824273833333336",
+        "ROUTE_NAME": "153 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131 - L\u00f6kbatan N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi perron 4",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "205"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15421",
+        "PLATE": "15421",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 1 dayanacaq 1",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,392130166666668",
+        "LONGITUDE": "49,865816333333335",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 1 dayanacaq 1 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "LAST_UPDATE_TIME": 1667657357,
+        "DISPLAY_ROUTE_CODE": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15417",
+        "PLATE": "15417",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 1 dayanacaq 1",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,404725833333337",
+        "LONGITUDE": "49,884828666666664",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 1 dayanacaq 1 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15416",
+        "PLATE": "15416",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,302980499999997",
+        "LONGITUDE": "49,767561499999992",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657356,
+        "DISPLAY_ROUTE_CODE": "125"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15412",
+        "PLATE": "15412",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "CURRENT_STOP": "Koro\u011flu NMM perron 1 dayanacaq 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,419890499999994",
+        "LONGITUDE": "49,797949833333327",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12 - Koro\u011flu NMM perron 1 dayanacaq 1",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15404",
+        "PLATE": "15404",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "CURRENT_STOP": "Koro\u011flu NMM perron 1 dayanacaq 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,400429000000003",
+        "LONGITUDE": "49,810381499999991",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12 - Koro\u011flu NMM perron 1 dayanacaq 1",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15408",
+        "PLATE": "15408",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,379560166666671",
+        "LONGITUDE": "49,851415333333335",
+        "ROUTE_NAME": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "125"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15410",
+        "PLATE": "15410",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "CURRENT_STOP": "Koro\u011flu NMM perron 1 dayanacaq 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,409994666666663",
+        "LONGITUDE": "49,803777000000004",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12 - Koro\u011flu NMM perron 1 dayanacaq 1",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15411",
+        "PLATE": "15411",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 1 dayanacaq 1",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,399706166666668",
+        "LONGITUDE": "49,837495000000004",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 1 dayanacaq 1 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15420",
+        "PLATE": "15420",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "CURRENT_STOP": "Koro\u011flu NMM perron 1 dayanacaq 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,408570666666670",
+        "LONGITUDE": "49,804660166666658",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12 - Koro\u011flu NMM perron 1 dayanacaq 1",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15407",
+        "PLATE": "15407",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 1 dayanacaq 1",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,408366999999998",
+        "LONGITUDE": "49,890951333333334",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 1 dayanacaq 1 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15413",
+        "PLATE": "15413",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "CURRENT_STOP": "Koro\u011flu NMM perron 1 dayanacaq 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,402809166666664",
+        "LONGITUDE": "49,851777833333337",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12 - Koro\u011flu NMM perron 1 dayanacaq 1",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15573",
+        "PLATE": "15573",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,378709499999999",
+        "LONGITUDE": "49,845983333333336",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15600",
+        "PLATE": "15600",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "CURRENT_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,408416000000003",
+        "LONGITUDE": "49,847749999999998",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5 - G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "LAST_UPDATE_TIME": 1667657356,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15683",
+        "PLATE": "15683",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,377898999999999",
+        "LONGITUDE": "49,848312166666666",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15690",
+        "PLATE": "15690",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,400110833333329",
+        "LONGITUDE": "49,877685000000007",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b)",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15418",
+        "PLATE": "15418",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 1 dayanacaq 1",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,416868333333333",
+        "LONGITUDE": "49,802195500000003",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 1 dayanacaq 1 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15727",
+        "PLATE": "15727",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "Puta \u015f\u0259h\u0259rciyi",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,338065166666667",
+        "LONGITUDE": "49,830647666666664",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - Puta \u015f\u0259h\u0259rciyi",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "127"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15550",
+        "PLATE": "15550",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b)",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,415008833333331",
+        "LONGITUDE": "49,903648666666669",
+        "ROUTE_NAME": "Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b) - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15560",
+        "PLATE": "15560",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "CURRENT_STOP": "G\u0259nc\u0259 prospekti 39",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,419816666666662",
+        "LONGITUDE": "49,923058666666670",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11 - G\u0259nc\u0259 prospekti 39",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "7A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15648",
+        "PLATE": "15648",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "20-ci sah\u0259",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,357043166666671",
+        "LONGITUDE": "49,834312833333328",
+        "ROUTE_NAME": "20-ci sah\u0259 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15742",
+        "PLATE": "15742",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "CURRENT_STOP": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,365679166666673",
+        "LONGITUDE": "49,817063666666670",
+        "ROUTE_NAME": "Azadl\u0131q metro stansiyas\u0131 - \u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "6"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15780",
+        "PLATE": "15780",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "CURRENT_STOP": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,366779999999999",
+        "LONGITUDE": "49,822115166666663",
+        "ROUTE_NAME": "Azadl\u0131q metro stansiyas\u0131 - \u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "6"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15504",
+        "PLATE": "15504",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,420414500000000",
+        "LONGITUDE": "49,799236000000001",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15547",
+        "PLATE": "15547",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "153 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+        "CURRENT_STOP": "L\u00f6kbatan N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi perron 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,415169166666672",
+        "LONGITUDE": "49,815602500000004",
+        "ROUTE_NAME": "153 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131 - L\u00f6kbatan N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi perron 4",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "205"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15539",
+        "PLATE": "15539",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "G\u0259nc\u0259 prospekti 39",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,372031833333338",
+        "LONGITUDE": "49,959813500000003",
+        "ROUTE_NAME": "G\u0259nc\u0259 prospekti 39 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "7A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15546",
+        "PLATE": "15546",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,404401833333331",
+        "LONGITUDE": "49,806251166666669",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15737",
+        "PLATE": "15737",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,397712666666663",
+        "LONGITUDE": "49,813423166666674",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "LAST_UPDATE_TIME": 1667657365,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15748",
+        "PLATE": "15748",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "153 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+        "CURRENT_STOP": "L\u00f6kbatan N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi perron 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,365028000000002",
+        "LONGITUDE": "49,810990166666670",
+        "ROUTE_NAME": "153 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131 - L\u00f6kbatan N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi perron 4",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "205"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15624",
+        "PLATE": "15624",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "20-ci sah\u0259",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,350245166666667",
+        "LONGITUDE": "49,836058000000001",
+        "ROUTE_NAME": "20-ci sah\u0259 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15704",
+        "PLATE": "15704",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,379549500000003",
+        "LONGITUDE": "49,844099666666672",
+        "ROUTE_NAME": "Azadl\u0131q metro stansiyas\u0131 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "88A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15760",
+        "PLATE": "15760",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "CURRENT_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,400227999999998",
+        "LONGITUDE": "49,850963666666665",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5 - G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15685",
+        "PLATE": "15685",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 1 dayanacaq 2",
+        "CURRENT_STOP": "Yeni Yasamal Park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,428060166666668",
+        "LONGITUDE": "49,893516166666664",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 1 dayanacaq 2 - Yeni Yasamal Park\u0131",
+        "LAST_UPDATE_TIME": 1667657354,
+        "DISPLAY_ROUTE_CODE": "7B"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15754",
+        "PLATE": "15754",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,420953333333337",
+        "LONGITUDE": "49,799461833333332",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15541",
+        "PLATE": "15541",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,412010499999994",
+        "LONGITUDE": "49,840612333333333",
+        "ROUTE_NAME": "11 sayl\u0131 m\u0259kt\u0259b - S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid",
+        "LAST_UPDATE_TIME": 1667657356,
+        "DISPLAY_ROUTE_CODE": "211"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15724",
+        "PLATE": "15724",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,309404833333332",
+        "LONGITUDE": "49,742930333333334",
+        "ROUTE_NAME": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "125"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15779",
+        "PLATE": "15779",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "G\u0259nclik metro stansiyas\u0131 G\u0259nclik Mall",
+        "CURRENT_STOP": "Ma\u015fta\u011fa q\u0259s\u0259b\u0259si Ab\u015feron k\u00fc\u00e7\u0259si",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,482600499999997",
+        "LONGITUDE": "49,953119500000000",
+        "ROUTE_NAME": "G\u0259nclik metro stansiyas\u0131 G\u0259nclik Mall - Ma\u015fta\u011fa q\u0259s\u0259b\u0259si Ab\u015feron k\u00fc\u00e7\u0259si",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "M8"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15529",
+        "PLATE": "15529",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "CURRENT_STOP": "G\u0259nc\u0259 prospekti 39",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,377976166666670",
+        "LONGITUDE": "49,954898333333325",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11 - G\u0259nc\u0259 prospekti 39",
+        "LAST_UPDATE_TIME": 1667657357,
+        "DISPLAY_ROUTE_CODE": "7A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15506",
+        "PLATE": "15506",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "CURRENT_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,387949666666671",
+        "LONGITUDE": "49,831606333333333",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5 - G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15672",
+        "PLATE": "15672",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,406233333333333",
+        "LONGITUDE": "49,806063166666675",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15510",
+        "PLATE": "15510",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "20-ci sah\u0259",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,388645666666669",
+        "LONGITUDE": "49,839786666666669",
+        "ROUTE_NAME": "20-ci sah\u0259 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15706",
+        "PLATE": "15706",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,415270999999997",
+        "LONGITUDE": "49,800757333333330",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15632",
+        "PLATE": "15632",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,388759000000000",
+        "LONGITUDE": "49,803032166666661",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15588",
+        "PLATE": "15588",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,420218166666672",
+        "LONGITUDE": "49,916733666666673",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b)",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15524",
+        "PLATE": "15524",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,417327833333339",
+        "LONGITUDE": "49,799547500000003",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15728",
+        "PLATE": "15728",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,399573000000004",
+        "LONGITUDE": "49,849318499999995",
+        "ROUTE_NAME": "G\u00fclar\u0259 \u018fliyeva park\u0131 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15716",
+        "PLATE": "15716",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,302636499999998",
+        "LONGITUDE": "49,766406000000003",
+        "ROUTE_NAME": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "125"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15522",
+        "PLATE": "15522",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "153 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+        "CURRENT_STOP": "L\u00f6kbatan N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi perron 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,302646500000002",
+        "LONGITUDE": "49,765928000000002",
+        "ROUTE_NAME": "153 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131 - L\u00f6kbatan N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi perron 4",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "205"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15509",
+        "PLATE": "15509",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "CURRENT_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,351292666666673",
+        "LONGITUDE": "49,810815833333329",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5 - G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15523",
+        "PLATE": "15523",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,420333499999998",
+        "LONGITUDE": "49,799165333333335",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15525",
+        "PLATE": "15525",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 1 dayanacaq 2",
+        "CURRENT_STOP": "Yeni Yasamal Park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,414355000000000",
+        "LONGITUDE": "49,845506999999998",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 1 dayanacaq 2 - Yeni Yasamal Park\u0131",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "7B"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15517",
+        "PLATE": "15517",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,321927166666669",
+        "LONGITUDE": "49,734840833333330",
+        "ROUTE_NAME": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "125"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15519",
+        "PLATE": "15519",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "CURRENT_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,398422333333329",
+        "LONGITUDE": "49,831699333333333",
+        "ROUTE_NAME": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259 - Azadl\u0131q metro stansiyas\u0131",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "6"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15526",
+        "PLATE": "15526",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,356126000000003",
+        "LONGITUDE": "49,834412999999998",
+        "ROUTE_NAME": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657350,
+        "DISPLAY_ROUTE_CODE": "125"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15527",
+        "PLATE": "15527",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "20-ci sah\u0259",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,397117000000001",
+        "LONGITUDE": "49,843408833333328",
+        "ROUTE_NAME": "20-ci sah\u0259 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15726",
+        "PLATE": "15726",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid",
+        "CURRENT_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,401657000000000",
+        "LONGITUDE": "49,818663000000001",
+        "ROUTE_NAME": "S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid - 11 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "211"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15734",
+        "PLATE": "15734",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,317392499999997",
+        "LONGITUDE": "49,820971333333333",
+        "ROUTE_NAME": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "125"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15612",
+        "PLATE": "15612",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "CURRENT_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,341376833333335",
+        "LONGITUDE": "49,840512666666669",
+        "ROUTE_NAME": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259 - Azadl\u0131q metro stansiyas\u0131",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "6"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15656",
+        "PLATE": "15656",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,389013999999996",
+        "LONGITUDE": "49,826118833333339",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15769",
+        "PLATE": "15769",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "CURRENT_STOP": "G\u0259nc\u0259 prospekti 39",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,379210166666667",
+        "LONGITUDE": "49,953606666666673",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11 - G\u0259nc\u0259 prospekti 39",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "7A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15703",
+        "PLATE": "15703",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,376883666666664",
+        "LONGITUDE": "49,840012999999999",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15717",
+        "PLATE": "15717",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "20-ci sah\u0259",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,348338333333331",
+        "LONGITUDE": "49,837874166666673",
+        "ROUTE_NAME": "20-ci sah\u0259 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15763",
+        "PLATE": "15763",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 1 dayanacaq 2",
+        "CURRENT_STOP": "Yeni Yasamal Park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,426377000000002",
+        "LONGITUDE": "49,880929666666667",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 1 dayanacaq 2 - Yeni Yasamal Park\u0131",
+        "LAST_UPDATE_TIME": 1667657354,
+        "DISPLAY_ROUTE_CODE": "7B"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15555",
+        "PLATE": "15555",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "CURRENT_STOP": "G\u0259nc\u0259 prospekti 39",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,410223833333333",
+        "LONGITUDE": "49,943101166666672",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11 - G\u0259nc\u0259 prospekti 39",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "7A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15755",
+        "PLATE": "15755",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,393555666666664",
+        "LONGITUDE": "49,867748833333323",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15770",
+        "PLATE": "15770",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "20-ci sah\u0259",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,397277833333334",
+        "LONGITUDE": "49,843331333333332",
+        "ROUTE_NAME": "20-ci sah\u0259 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15602",
+        "PLATE": "15602",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b)",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,380139500000006",
+        "LONGITUDE": "49,855996166666664",
+        "ROUTE_NAME": "Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b) - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15657",
+        "PLATE": "15657",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "CURRENT_STOP": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,396166833333339",
+        "LONGITUDE": "49,821782333333338",
+        "ROUTE_NAME": "Azadl\u0131q metro stansiyas\u0131 - \u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "6"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15741",
+        "PLATE": "15741",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,380279000000002",
+        "LONGITUDE": "49,814699166666664",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15559",
+        "PLATE": "15559",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "Yeni Yasamal Park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,394931000000000",
+        "LONGITUDE": "49,789631499999999",
+        "ROUTE_NAME": "11 sayl\u0131 m\u0259kt\u0259b - Yeni Yasamal Park\u0131",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15598",
+        "PLATE": "15598",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,323547333333330",
+        "LONGITUDE": "49,779295333333330",
+        "ROUTE_NAME": "11 sayl\u0131 m\u0259kt\u0259b - S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "211"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15694",
+        "PLATE": "15694",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "Yeni Yasamal Park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,402735833333331",
+        "LONGITUDE": "49,862150666666672",
+        "ROUTE_NAME": "11 sayl\u0131 m\u0259kt\u0259b - Yeni Yasamal Park\u0131",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15686",
+        "PLATE": "15686",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yeni Yasamal Park\u0131",
+        "CURRENT_STOP": "Koro\u011flu NMM perron 1 dayanacaq 2",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,427581833333335",
+        "LONGITUDE": "49,891265333333330",
+        "ROUTE_NAME": "Yeni Yasamal Park\u0131 - Koro\u011flu NMM perron 1 dayanacaq 2",
+        "LAST_UPDATE_TIME": 1667657356,
+        "DISPLAY_ROUTE_CODE": "7B"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15607",
+        "PLATE": "15607",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yeni Yasamal Park\u0131",
+        "CURRENT_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,394643666666667",
+        "LONGITUDE": "49,802064000000001",
+        "ROUTE_NAME": "Yeni Yasamal Park\u0131 - 11 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15711",
+        "PLATE": "15711",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,379088166666662",
+        "LONGITUDE": "49,844767000000004",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - Azadl\u0131q metro stansiyas\u0131",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "88A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15545",
+        "PLATE": "15545",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b)",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,397329166666665",
+        "LONGITUDE": "49,872429666666662",
+        "ROUTE_NAME": "Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b) - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15599",
+        "PLATE": "15599",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,406666333333334",
+        "LONGITUDE": "49,849238666666665",
+        "ROUTE_NAME": "G\u00fclar\u0259 \u018fliyeva park\u0131 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15576",
+        "PLATE": "15576",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,374447333333336",
+        "LONGITUDE": "49,859761833333337",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15563",
+        "PLATE": "15563",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,426113666666666",
+        "LONGITUDE": "49,856788000000009",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657355,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15521",
+        "PLATE": "15521",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "G\u0259nclik metro stansiyas\u0131 G\u0259nclik Mall",
+        "CURRENT_STOP": "Ma\u015fta\u011fa q\u0259s\u0259b\u0259si Ab\u015feron k\u00fc\u00e7\u0259si",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,458279833333336",
+        "LONGITUDE": "49,939298333333333",
+        "ROUTE_NAME": "G\u0259nclik metro stansiyas\u0131 G\u0259nclik Mall - Ma\u015fta\u011fa q\u0259s\u0259b\u0259si Ab\u015feron k\u00fc\u00e7\u0259si",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "M8"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15654",
+        "PLATE": "15654",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,377338666666667",
+        "LONGITUDE": "49,841792500000004",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15618",
+        "PLATE": "15618",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,378291166666671",
+        "LONGITUDE": "49,841786833333330",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657284,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15631",
+        "PLATE": "15631",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,376128000000001",
+        "LONGITUDE": "49,837296166666661",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15645",
+        "PLATE": "15645",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "Yeni Yasamal Park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,388154500000006",
+        "LONGITUDE": "49,832237500000005",
+        "ROUTE_NAME": "11 sayl\u0131 m\u0259kt\u0259b - Yeni Yasamal Park\u0131",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15606",
+        "PLATE": "15606",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "20-ci sah\u0259",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,353692833333334",
+        "LONGITUDE": "49,834595999999998",
+        "ROUTE_NAME": "20-ci sah\u0259 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "LAST_UPDATE_TIME": 1667657357,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15610",
+        "PLATE": "15610",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "CURRENT_STOP": "20-ci sah\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,373072666666665",
+        "LONGITUDE": "49,850427166666670",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4 - 20-ci sah\u0259",
+        "LAST_UPDATE_TIME": 1667657354,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15768",
+        "PLATE": "15768",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,377004166666666",
+        "LONGITUDE": "49,840562333333338",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657365,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15540",
+        "PLATE": "15540",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "CURRENT_STOP": "20-ci sah\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,361061666666664",
+        "LONGITUDE": "49,834289666666670",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4 - 20-ci sah\u0259",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15537",
+        "PLATE": "15537",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid",
+        "CURRENT_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,407112166666671",
+        "LONGITUDE": "49,824140166666666",
+        "ROUTE_NAME": "S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid - 11 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "211"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15579",
+        "PLATE": "15579",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,411407166666663",
+        "LONGITUDE": "49,862240000000007",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 2",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "2"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15531",
+        "PLATE": "15531",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "CURRENT_STOP": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,417453999999999",
+        "LONGITUDE": "49,839081666666665",
+        "ROUTE_NAME": "Azadl\u0131q metro stansiyas\u0131 - \u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "6"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15682",
+        "PLATE": "15682",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "CURRENT_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,368361833333331",
+        "LONGITUDE": "49,816803166666659",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5 - G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15670",
+        "PLATE": "15670",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid",
+        "CURRENT_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,404455500000005",
+        "LONGITUDE": "49,805915666666671",
+        "ROUTE_NAME": "S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid - 11 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "211"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15681",
+        "PLATE": "15681",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yeni Yasamal Park\u0131",
+        "CURRENT_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,403710833333335",
+        "LONGITUDE": "49,872756166666676",
+        "ROUTE_NAME": "Yeni Yasamal Park\u0131 - 11 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657357,
+        "DISPLAY_ROUTE_CODE": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15627",
+        "PLATE": "15627",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "CURRENT_STOP": "G\u0259nc\u0259 prospekti 39",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,419023500000002",
+        "LONGITUDE": "49,795224000000005",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11 - G\u0259nc\u0259 prospekti 39",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "7A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15614",
+        "PLATE": "15614",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,402067833333334",
+        "LONGITUDE": "49,806442833333328",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15633",
+        "PLATE": "15633",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,420168666666669",
+        "LONGITUDE": "49,801521833333332",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15622",
+        "PLATE": "15622",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,355858333333337",
+        "LONGITUDE": "49,834441666666663",
+        "ROUTE_NAME": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657355,
+        "DISPLAY_ROUTE_CODE": "125"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15628",
+        "PLATE": "15628",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,424431666666671",
+        "LONGITUDE": "49,846356166666659",
+        "ROUTE_NAME": "G\u00fclar\u0259 \u018fliyeva park\u0131 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15659",
+        "PLATE": "15659",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,323618333333336",
+        "LONGITUDE": "49,779513500000000",
+        "ROUTE_NAME": "11 sayl\u0131 m\u0259kt\u0259b - S\u0259d\u0259r\u0259k Ticar\u0259t M\u0259rk\u0259zi M\u0259scid",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "211"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15613",
+        "PLATE": "15613",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "CURRENT_STOP": "20-ci sah\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,416966666666667",
+        "LONGITUDE": "49,836581333333335",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4 - 20-ci sah\u0259",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15707",
+        "PLATE": "15707",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yeni Yasamal Park\u0131",
+        "CURRENT_STOP": "11 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,380659833333333",
+        "LONGITUDE": "49,821805833333336",
+        "ROUTE_NAME": "Yeni Yasamal Park\u0131 - 11 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15414",
+        "PLATE": "15414",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 1 dayanacaq 1",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,420050166666670",
+        "LONGITUDE": "49,801635666666670",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 1 dayanacaq 1 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 12",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15585",
+        "PLATE": "15585",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,416475166666672",
+        "LONGITUDE": "49,907724833333333",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - Neft\u00e7il\u0259r metro stansiyas\u0131 (214 sayl\u0131 m\u0259kt\u0259b)",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15562",
+        "PLATE": "15562",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "L\u00f6kbatan N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi perron 4",
+        "CURRENT_STOP": "153 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,333659166666664",
+        "LONGITUDE": "49,820332333333333",
+        "ROUTE_NAME": "L\u00f6kbatan N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi perron 4 - 153 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "205"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15518",
+        "PLATE": "15518",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,416037333333328",
+        "LONGITUDE": "49,846101833333329",
+        "ROUTE_NAME": "G\u00fclar\u0259 \u018fliyeva park\u0131 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15507",
+        "PLATE": "15507",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "L\u00f6kbatan N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi perron 4",
+        "CURRENT_STOP": "153 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,383346666666661",
+        "LONGITUDE": "49,803923833333329",
+        "ROUTE_NAME": "L\u00f6kbatan N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi perron 4 - 153 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "205"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15528",
+        "PLATE": "15528",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5",
+        "CURRENT_STOP": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,432550500000005",
+        "LONGITUDE": "49,852293666666675",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 5 - G\u00fclar\u0259 \u018fliyeva park\u0131",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "3"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15688",
+        "PLATE": "15688",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,394636833333337",
+        "LONGITUDE": "49,801992000000006",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15658",
+        "PLATE": "15658",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,379188333333332",
+        "LONGITUDE": "49,849780666666661",
+        "ROUTE_NAME": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "125"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15653",
+        "PLATE": "15653",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Azadl\u0131q metro stansiyas\u0131",
+        "CURRENT_STOP": "\u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,416894666666664",
+        "LONGITUDE": "49,836261000000000",
+        "ROUTE_NAME": "Azadl\u0131q metro stansiyas\u0131 - \u00d6.F.Nemanzad\u0259 k.-Bibiheyb\u0259t yolu il\u0259 k\u0259si\u015fm\u0259",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "6"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15679",
+        "PLATE": "15679",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,308545666666667",
+        "LONGITUDE": "49,819856333333334",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - L\u00f6kbatan q\u0259s\u0259b\u0259si 139 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "125"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15619",
+        "PLATE": "15619",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "G\u0259nc\u0259 prospekti 39",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,410702833333332",
+        "LONGITUDE": "49,804016666666669",
+        "ROUTE_NAME": "G\u0259nc\u0259 prospekti 39 - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 11",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "7A"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15611",
+        "PLATE": "15611",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,380529499999994",
+        "LONGITUDE": "49,817018833333336",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15609",
+        "PLATE": "15609",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "20-ci sah\u0259",
+        "CURRENT_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,382686333333332",
+        "LONGITUDE": "49,842939666666673",
+        "ROUTE_NAME": "20-ci sah\u0259 - D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15642",
+        "PLATE": "15642",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,376698166666664",
+        "LONGITUDE": "49,831959000000005",
+        "ROUTE_NAME": "Beyn\u04d9lxalq Avtova\u011fzal NMM dayanacaq 13 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15616",
+        "PLATE": "15616",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "CURRENT_STOP": "20-ci sah\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,398506500000003",
+        "LONGITUDE": "49,838812333333330",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4 - 20-ci sah\u0259",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15764",
+        "PLATE": "15764",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4",
+        "CURRENT_STOP": "20-ci sah\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,367004333333327",
+        "LONGITUDE": "49,838312333333334",
+        "ROUTE_NAME": "D\u0259rn\u0259g\u00fcl metro stansiyas\u0131 dayanacaq 4 - 20-ci sah\u0259",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "88"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15263",
+        "PLATE": "15263",
+        "DRIVER_NAME": "",
+        "PREV_STOP": null,
+        "CURRENT_STOP": null,
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,357391000000000",
+        "LONGITUDE": "49,961376999999999",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - \u018fhm\u0259dli m\/st (M\u0259h\u0259mm\u0259d Hadi k\u00fc\u00e7\u0259si)",
+        "LAST_UPDATE_TIME": 1667657340,
+        "DISPLAY_ROUTE_CODE": "21"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15279",
+        "PLATE": "15279",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259",
+        "CURRENT_STOP": "Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,438367000000000",
+        "LONGITUDE": "49,960251999999997",
+        "ROUTE_NAME": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259 - Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "LAST_UPDATE_TIME": 1667657345,
+        "DISPLAY_ROUTE_CODE": "35"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15203",
+        "PLATE": "15203",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "X\u04d9tai Rayon M\u04d9hk\u04d9m\u04d9si",
+        "CURRENT_STOP": "\u018fhm\u0259dli m\/st (M\u0259h\u0259mm\u0259d Hadi k\u00fc\u00e7\u0259si)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,366014000000000",
+        "LONGITUDE": "49,943910000000002",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - \u018fhm\u0259dli m\/st (M\u0259h\u0259mm\u0259d Hadi k\u00fc\u00e7\u0259si)",
+        "LAST_UPDATE_TIME": 1667657354,
+        "DISPLAY_ROUTE_CODE": "21"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15205",
+        "PLATE": "15205",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259",
+        "CURRENT_STOP": "Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,412407999999999",
+        "LONGITUDE": "49,956774000000003",
+        "ROUTE_NAME": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259 - Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "LAST_UPDATE_TIME": 1667657350,
+        "DISPLAY_ROUTE_CODE": "35"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15215",
+        "PLATE": "15215",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 422",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,378869999999999",
+        "LONGITUDE": "49,852162000000000",
+        "ROUTE_NAME": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 422 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657355,
+        "DISPLAY_ROUTE_CODE": "32"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15234",
+        "PLATE": "15234",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "M.Qafur-Z.Nudir\u0259liyev k\u00fc\u00e7\u0259sinin k\u0259si\u015fm\u0259si",
+        "CURRENT_STOP": "Neft\u00e7il\u0259r Park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,408731000000003",
+        "LONGITUDE": "49,970103999999999",
+        "ROUTE_NAME": "M.Qafur-Z.Nudir\u0259liyev k\u00fc\u00e7\u0259sinin k\u0259si\u015fm\u0259si - Neft\u00e7il\u0259r Park\u0131",
+        "LAST_UPDATE_TIME": 1667657341,
+        "DISPLAY_ROUTE_CODE": "24"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15238",
+        "PLATE": "15238",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520",
+        "CURRENT_STOP": "S\u0259m\u0259d Vur\u011fun ba\u011f\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,383023000000001",
+        "LONGITUDE": "49,873035000000002",
+        "ROUTE_NAME": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520 - S\u0259m\u0259d Vur\u011fun ba\u011f\u0131",
+        "LAST_UPDATE_TIME": 1667657352,
+        "DISPLAY_ROUTE_CODE": "30"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15244",
+        "PLATE": "15244",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "CURRENT_STOP": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,406289000000001",
+        "LONGITUDE": "49,946396000000000",
+        "ROUTE_NAME": "Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi - R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "35"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15274",
+        "PLATE": "15274",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Qara Qarayev prospekti 59",
+        "CURRENT_STOP": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,392840000000000",
+        "LONGITUDE": "49,920141999999998",
+        "ROUTE_NAME": "S\u0259m\u0259d Vur\u011fun ba\u011f\u0131 - C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520",
+        "LAST_UPDATE_TIME": 1667657329,
+        "DISPLAY_ROUTE_CODE": "30"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15288",
+        "PLATE": "15288",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259",
+        "CURRENT_STOP": "Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,378751000000001",
+        "LONGITUDE": "49,954413000000002",
+        "ROUTE_NAME": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259 - Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "LAST_UPDATE_TIME": 1667657355,
+        "DISPLAY_ROUTE_CODE": "35"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15291",
+        "PLATE": "15291",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "S\u0259m\u0259d Vur\u011fun ba\u011f\u0131",
+        "CURRENT_STOP": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,389921000000001",
+        "LONGITUDE": "49,913480999999997",
+        "ROUTE_NAME": "S\u0259m\u0259d Vur\u011fun ba\u011f\u0131 - C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520",
+        "LAST_UPDATE_TIME": 1667657331,
+        "DISPLAY_ROUTE_CODE": "30"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15295",
+        "PLATE": "15295",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "\u018fhm\u0259dli m\/st (M\u0259h\u0259mm\u0259d Hadi k\u00fc\u00e7\u0259si)",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,382171000000000",
+        "LONGITUDE": "49,866318999999997",
+        "ROUTE_NAME": "\u018fhm\u0259dli m\/st (M\u0259h\u0259mm\u0259d Hadi k\u00fc\u00e7\u0259si) - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657334,
+        "DISPLAY_ROUTE_CODE": "21"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15304",
+        "PLATE": "15304",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "S\u0259m\u0259d Vur\u011fun ba\u011f\u0131",
+        "CURRENT_STOP": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,388527000000003",
+        "LONGITUDE": "49,878689000000001",
+        "ROUTE_NAME": "S\u0259m\u0259d Vur\u011fun ba\u011f\u0131 - C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520",
+        "LAST_UPDATE_TIME": 1667657356,
+        "DISPLAY_ROUTE_CODE": "30"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15305",
+        "PLATE": "15305",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "CURRENT_STOP": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,384824000000002",
+        "LONGITUDE": "49,953902999999997",
+        "ROUTE_NAME": "Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi - R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259",
+        "LAST_UPDATE_TIME": 1667657351,
+        "DISPLAY_ROUTE_CODE": "35"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15307",
+        "PLATE": "15307",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,355525000000000",
+        "LONGITUDE": "50,034886999999998",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi",
+        "LAST_UPDATE_TIME": 1667657331,
+        "DISPLAY_ROUTE_CODE": "175"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15311",
+        "PLATE": "15311",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Neft\u00e7il\u0259r Park\u0131",
+        "CURRENT_STOP": "M.Qafur-Z.Nudir\u0259liyev k\u00fc\u00e7\u0259sinin k\u0259si\u015fm\u0259si",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,404708999999997",
+        "LONGITUDE": "49,874940000000002",
+        "ROUTE_NAME": "Neft\u00e7il\u0259r Park\u0131 - M.Qafur-Z.Nudir\u0259liyev k\u00fc\u00e7\u0259sinin k\u0259si\u015fm\u0259si",
+        "LAST_UPDATE_TIME": 1667657357,
+        "DISPLAY_ROUTE_CODE": "24"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15327",
+        "PLATE": "15327",
+        "DRIVER_NAME": "",
+        "PREV_STOP": null,
+        "CURRENT_STOP": null,
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,412252000000002",
+        "LONGITUDE": "49,959206000000002",
+        "ROUTE_NAME": "Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi - R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "35"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15346",
+        "PLATE": "15346",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "\u018fhm\u0259dli m\/st (M\u0259h\u0259mm\u0259d Hadi k\u00fc\u00e7\u0259si)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,377060999999998",
+        "LONGITUDE": "49,858752000000003",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - \u018fhm\u0259dli m\/st (M\u0259h\u0259mm\u0259d Hadi k\u00fc\u00e7\u0259si)",
+        "LAST_UPDATE_TIME": 1667657346,
+        "DISPLAY_ROUTE_CODE": "21"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15347",
+        "PLATE": "15347",
+        "DRIVER_NAME": "",
+        "PREV_STOP": null,
+        "CURRENT_STOP": null,
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,378157000000002",
+        "LONGITUDE": "50,068049000000002",
+        "ROUTE_NAME": "H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657341,
+        "DISPLAY_ROUTE_CODE": "175"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15348",
+        "PLATE": "15348",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520",
+        "CURRENT_STOP": "S\u0259m\u0259d Vur\u011fun ba\u011f\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,378681999999998",
+        "LONGITUDE": "49,858367999999999",
+        "ROUTE_NAME": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520 - S\u0259m\u0259d Vur\u011fun ba\u011f\u0131",
+        "LAST_UPDATE_TIME": 1667657337,
+        "DISPLAY_ROUTE_CODE": "30"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15401",
+        "PLATE": "15401",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "X\u0259tai metro stansiyas\u0131",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,381934999999999",
+        "LONGITUDE": "49,864648000000003",
+        "ROUTE_NAME": "\u018fhm\u0259dli m\/st (M\u0259h\u0259mm\u0259d Hadi k\u00fc\u00e7\u0259si) - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "21"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15134",
+        "PLATE": "15134",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Z.B\u00fcnyadov pr.-\u018f.\u018fliyev k\u00fc\u00e7\u0259sinin k\u0259si\u015fm\u0259si",
+        "CURRENT_STOP": "M.Qafur-Z.Nudir\u0259liyev k\u00fc\u00e7\u0259sinin k\u0259si\u015fm\u0259si",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,406826000000002",
+        "LONGITUDE": "49,875070000000001",
+        "ROUTE_NAME": "Neft\u00e7il\u0259r Park\u0131 - M.Qafur-Z.Nudir\u0259liyev k\u00fc\u00e7\u0259sinin k\u0259si\u015fm\u0259si",
+        "LAST_UPDATE_TIME": 1667657342,
+        "DISPLAY_ROUTE_CODE": "24"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15224",
+        "PLATE": "15224",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259",
+        "CURRENT_STOP": "Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,372934000000001",
+        "LONGITUDE": "49,941163000000003",
+        "ROUTE_NAME": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259 - Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "LAST_UPDATE_TIME": 1667657354,
+        "DISPLAY_ROUTE_CODE": "35"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15321",
+        "PLATE": "15321",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520",
+        "CURRENT_STOP": "S\u0259m\u0259d Vur\u011fun ba\u011f\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,389445000000002",
+        "LONGITUDE": "49,882747999999999",
+        "ROUTE_NAME": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520 - S\u0259m\u0259d Vur\u011fun ba\u011f\u0131",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "30"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15048",
+        "PLATE": "15048",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 422",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,380512000000003",
+        "LONGITUDE": "49,857373000000003",
+        "ROUTE_NAME": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 422 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657353,
+        "DISPLAY_ROUTE_CODE": "32"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15314",
+        "PLATE": "15314",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,357745000000001",
+        "LONGITUDE": "50,044100999999998",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi",
+        "LAST_UPDATE_TIME": 1667657337,
+        "DISPLAY_ROUTE_CODE": "175"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15281",
+        "PLATE": "15281",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259",
+        "CURRENT_STOP": "Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,394736000000002",
+        "LONGITUDE": "49,953786000000001",
+        "ROUTE_NAME": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259 - Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "LAST_UPDATE_TIME": 1667657338,
+        "DISPLAY_ROUTE_CODE": "35"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15125",
+        "PLATE": "15125",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Neft\u00e7il\u0259r Park\u0131",
+        "CURRENT_STOP": "M.Qafur-Z.Nudir\u0259liyev k\u00fc\u00e7\u0259sinin k\u0259si\u015fm\u0259si",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,405455000000003",
+        "LONGITUDE": "49,861857000000001",
+        "ROUTE_NAME": "Neft\u00e7il\u0259r Park\u0131 - M.Qafur-Z.Nudir\u0259liyev k\u00fc\u00e7\u0259sinin k\u0259si\u015fm\u0259si",
+        "LAST_UPDATE_TIME": 1667657336,
+        "DISPLAY_ROUTE_CODE": "24"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15240",
+        "PLATE": "15240",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "S\u0259m\u0259d Vur\u011fun ba\u011f\u0131",
+        "CURRENT_STOP": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,394627000000000",
+        "LONGITUDE": "49,938549999999999",
+        "ROUTE_NAME": "S\u0259m\u0259d Vur\u011fun ba\u011f\u0131 - C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520",
+        "LAST_UPDATE_TIME": 1667657344,
+        "DISPLAY_ROUTE_CODE": "30"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15830",
+        "PLATE": "15830",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "257 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "Bak\u0131 D\u0259mir Yolu Va\u011fzal\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,400112833333331",
+        "LONGITUDE": "49,866977499999997",
+        "ROUTE_NAME": "257 sayl\u0131 m\u0259kt\u0259b - Bak\u0131 D\u0259mir Yolu Va\u011fzal\u0131",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "11"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15828",
+        "PLATE": "15828",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 4 dayanacaq 1",
+        "CURRENT_STOP": "Qala NMM dayanacaq 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,443726999999996",
+        "LONGITUDE": "50,177529833333331",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 4 dayanacaq 1 - Qala NMM dayanacaq 1",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "Q1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15839",
+        "PLATE": "15839",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,378097333333336",
+        "LONGITUDE": "50,067843833333335",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "175"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15844",
+        "PLATE": "15844",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 4 dayanacaq 1",
+        "CURRENT_STOP": "Qala NMM dayanacaq 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,421735666666670",
+        "LONGITUDE": "49,917789499999998",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 4 dayanacaq 1 - Qala NMM dayanacaq 1",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "Q1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15228",
+        "PLATE": "15228",
+        "DRIVER_NAME": "",
+        "PREV_STOP": null,
+        "CURRENT_STOP": null,
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,437156999999999",
+        "LONGITUDE": "49,959696000000001",
+        "ROUTE_NAME": "Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi - R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259",
+        "LAST_UPDATE_TIME": 1667657346,
+        "DISPLAY_ROUTE_CODE": "35"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15260",
+        "PLATE": "15260",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 422",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,405076000000001",
+        "LONGITUDE": "49,960090999999998",
+        "ROUTE_NAME": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 422 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657351,
+        "DISPLAY_ROUTE_CODE": "32"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15336",
+        "PLATE": "15336",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "\u018fhm\u0259dli m\/st (M\u0259h\u0259mm\u0259d Hadi k\u00fc\u00e7\u0259si)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,361224000000000",
+        "LONGITUDE": "49,947186000000002",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - \u018fhm\u0259dli m\/st (M\u0259h\u0259mm\u0259d Hadi k\u00fc\u00e7\u0259si)",
+        "LAST_UPDATE_TIME": 1667657353,
+        "DISPLAY_ROUTE_CODE": "21"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15144",
+        "PLATE": "15144",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 422",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,391002000000000",
+        "LONGITUDE": "49,914622000000001",
+        "ROUTE_NAME": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 422 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657337,
+        "DISPLAY_ROUTE_CODE": "32"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15335",
+        "PLATE": "15335",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259",
+        "CURRENT_STOP": "Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,416410999999997",
+        "LONGITUDE": "49,957782999999999",
+        "ROUTE_NAME": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259 - Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "LAST_UPDATE_TIME": 1667657344,
+        "DISPLAY_ROUTE_CODE": "35"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15298",
+        "PLATE": "15298",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259",
+        "CURRENT_STOP": "Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,403568000000000",
+        "LONGITUDE": "49,948354000000002",
+        "ROUTE_NAME": "R.Quliyev-R.M\u0259mm\u0259dov k\u00fc\u00e7\u0259si il\u0259 k\u0259si\u015fm\u0259 - Yav\u0259r \u018fliyev k\u00fc\u00e7\u0259si d\u0259mir yolu ke\u00e7idi",
+        "LAST_UPDATE_TIME": 1667654255,
+        "DISPLAY_ROUTE_CODE": "35"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15273",
+        "PLATE": "15273",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520",
+        "CURRENT_STOP": "S\u0259m\u0259d Vur\u011fun ba\u011f\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,390129999999999",
+        "LONGITUDE": "49,885303999999998",
+        "ROUTE_NAME": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 520 - S\u0259m\u0259d Vur\u011fun ba\u011f\u0131",
+        "LAST_UPDATE_TIME": 1667657338,
+        "DISPLAY_ROUTE_CODE": "30"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15258",
+        "PLATE": "15258",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,379949000000003",
+        "LONGITUDE": "49,859797000000000",
+        "ROUTE_NAME": "H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657357,
+        "DISPLAY_ROUTE_CODE": "175"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15817",
+        "PLATE": "15817",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 422",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,410924999999999",
+        "LONGITUDE": "49,945085500000005",
+        "ROUTE_NAME": "C\u0259m\u015fid Nax\u00e7\u0131vanski k\u00fc\u00e7\u0259si 422 - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657355,
+        "DISPLAY_ROUTE_CODE": "32"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15876",
+        "PLATE": "15876",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yasamal Ya\u015fay\u0131\u015f Kompleksi 29",
+        "CURRENT_STOP": "A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,377221166666665",
+        "LONGITUDE": "49,852965833333336",
+        "ROUTE_NAME": "Yasamal Ya\u015fay\u0131\u015f Kompleksi 29 - A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si",
+        "LAST_UPDATE_TIME": 1667657352,
+        "DISPLAY_ROUTE_CODE": "10"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15866",
+        "PLATE": "15866",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si",
+        "CURRENT_STOP": "Yasamal Ya\u015fay\u0131\u015f Kompleksi 29",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,379939166666666",
+        "LONGITUDE": "49,859624333333343",
+        "ROUTE_NAME": "A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si - Yasamal Ya\u015fay\u0131\u015f Kompleksi 29",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "10"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "15901",
+        "PLATE": "15901",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu metrosu k\u00f6rp\u00fc",
+        "CURRENT_STOP": "Hava Liman\u0131 Terminal 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,438198000000000",
+        "LONGITUDE": "49,933750000000003",
+        "ROUTE_NAME": "28 May metrostansiyas\u0131 - Hava Liman\u0131 Terminal 1",
+        "LAST_UPDATE_TIME": 1667655163,
+        "DISPLAY_ROUTE_CODE": "H1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67146",
+        "PLATE": "67146",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Bak\u0131 D\u0259mir Yolu Va\u011fzal\u0131",
+        "CURRENT_STOP": "257 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,389833666666661",
+        "LONGITUDE": "49,953890333333327",
+        "ROUTE_NAME": "Bak\u0131 D\u0259mir Yolu Va\u011fzal\u0131 - 257 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "11"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67075",
+        "PLATE": "67075",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Qala NMM dayanacaq 1",
+        "CURRENT_STOP": "Koro\u011flu NMM perron 4 dayanacaq 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,457130499999998",
+        "LONGITUDE": "50,141281666666664",
+        "ROUTE_NAME": "Qala NMM dayanacaq 1 - Koro\u011flu NMM perron 4 dayanacaq 1",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "Q1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67046",
+        "PLATE": "67046",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Qala NMM dayanacaq 1",
+        "CURRENT_STOP": "Koro\u011flu NMM perron 4 dayanacaq 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,431134833333331",
+        "LONGITUDE": "49,913836499999995",
+        "ROUTE_NAME": "Qala NMM dayanacaq 1 - Koro\u011flu NMM perron 4 dayanacaq 1",
+        "LAST_UPDATE_TIME": 1667657359,
+        "DISPLAY_ROUTE_CODE": "Q1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67115",
+        "PLATE": "67115",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "257 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "Bak\u0131 D\u0259mir Yolu Va\u011fzal\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,391375666666669",
+        "LONGITUDE": "49,862284500000001",
+        "ROUTE_NAME": "257 sayl\u0131 m\u0259kt\u0259b - Bak\u0131 D\u0259mir Yolu Va\u011fzal\u0131",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "11"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67118",
+        "PLATE": "67118",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Qala NMM dayanacaq 1",
+        "CURRENT_STOP": "Koro\u011flu NMM perron 4 dayanacaq 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,440609166666668",
+        "LONGITUDE": "50,012045999999991",
+        "ROUTE_NAME": "Qala NMM dayanacaq 1 - Koro\u011flu NMM perron 4 dayanacaq 1",
+        "LAST_UPDATE_TIME": 1667657358,
+        "DISPLAY_ROUTE_CODE": "Q1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67135",
+        "PLATE": "67135",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "257 sayl\u0131 m\u0259kt\u0259b",
+        "CURRENT_STOP": "Bak\u0131 D\u0259mir Yolu Va\u011fzal\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,384589666666670",
+        "LONGITUDE": "49,850556333333330",
+        "ROUTE_NAME": "257 sayl\u0131 m\u0259kt\u0259b - Bak\u0131 D\u0259mir Yolu Va\u011fzal\u0131",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "11"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67120",
+        "PLATE": "67120",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,379372500000002",
+        "LONGITUDE": "49,881680999999993",
+        "ROUTE_NAME": "H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "175"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67144",
+        "PLATE": "67144",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "N\u0259riman N\u0259rimanov metro stansiyas\u0131",
+        "CURRENT_STOP": "20-ci sah\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,396636666666673",
+        "LONGITUDE": "49,862642833333332",
+        "ROUTE_NAME": "N\u0259riman N\u0259rimanov metro stansiyas\u0131 - 20-ci sah\u0259",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "5"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67128",
+        "PLATE": "67128",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "N\u0259riman N\u0259rimanov metro stansiyas\u0131",
+        "CURRENT_STOP": "20-ci sah\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,379497000000001",
+        "LONGITUDE": "49,850889000000009",
+        "ROUTE_NAME": "N\u0259riman N\u0259rimanov metro stansiyas\u0131 - 20-ci sah\u0259",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "5"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67065",
+        "PLATE": "67065",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "20-ci sah\u0259",
+        "CURRENT_STOP": "N\u0259riman N\u0259rimanov metro stansiyas\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,396729833333332",
+        "LONGITUDE": "49,863026333333330",
+        "ROUTE_NAME": "20-ci sah\u0259 - N\u0259riman N\u0259rimanov metro stansiyas\u0131",
+        "LAST_UPDATE_TIME": 1667657365,
+        "DISPLAY_ROUTE_CODE": "5"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67092",
+        "PLATE": "67092",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Bak\u0131 D\u0259mir Yolu Va\u011fzal\u0131",
+        "CURRENT_STOP": "257 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,359318166666668",
+        "LONGITUDE": "49,957600333333325",
+        "ROUTE_NAME": "Bak\u0131 D\u0259mir Yolu Va\u011fzal\u0131 - 257 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657357,
+        "DISPLAY_ROUTE_CODE": "11"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67089",
+        "PLATE": "67089",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 4 dayanacaq 1",
+        "CURRENT_STOP": "Qala NMM dayanacaq 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,441464833333335",
+        "LONGITUDE": "49,989407499999999",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 4 dayanacaq 1 - Qala NMM dayanacaq 1",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "Q1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67098",
+        "PLATE": "67098",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi",
+        "CURRENT_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,382036333333332",
+        "LONGITUDE": "49,865193500000004",
+        "ROUTE_NAME": "H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi - 28 May metro stansiyas\u0131 (DDYX)",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "175"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67105",
+        "PLATE": "67105",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "N\u0259riman N\u0259rimanov metro stansiyas\u0131",
+        "CURRENT_STOP": "20-ci sah\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,371196833333336",
+        "LONGITUDE": "49,845367000000003",
+        "ROUTE_NAME": "N\u0259riman N\u0259rimanov metro stansiyas\u0131 - 20-ci sah\u0259",
+        "LAST_UPDATE_TIME": 1667657364,
+        "DISPLAY_ROUTE_CODE": "5"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67070",
+        "PLATE": "67070",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "20-ci sah\u0259",
+        "CURRENT_STOP": "N\u0259riman N\u0259rimanov metro stansiyas\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,380456333333335",
+        "LONGITUDE": "49,846344666666667",
+        "ROUTE_NAME": "20-ci sah\u0259 - N\u0259riman N\u0259rimanov metro stansiyas\u0131",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "5"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67072",
+        "PLATE": "67072",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "20-ci sah\u0259",
+        "CURRENT_STOP": "N\u0259riman N\u0259rimanov metro stansiyas\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,358855999999996",
+        "LONGITUDE": "49,834471333333340",
+        "ROUTE_NAME": "20-ci sah\u0259 - N\u0259riman N\u0259rimanov metro stansiyas\u0131",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "5"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67060",
+        "PLATE": "67060",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Bak\u0131 D\u0259mir Yolu Va\u011fzal\u0131",
+        "CURRENT_STOP": "257 sayl\u0131 m\u0259kt\u0259b",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,366809166666670",
+        "LONGITUDE": "49,955237000000004",
+        "ROUTE_NAME": "Bak\u0131 D\u0259mir Yolu Va\u011fzal\u0131 - 257 sayl\u0131 m\u0259kt\u0259b",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "11"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67125",
+        "PLATE": "67125",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 4 dayanacaq 1",
+        "CURRENT_STOP": "Qala NMM dayanacaq 1",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,439248166666665",
+        "LONGITUDE": "49,937325500000000",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 4 dayanacaq 1 - Qala NMM dayanacaq 1",
+        "LAST_UPDATE_TIME": 1667657363,
+        "DISPLAY_ROUTE_CODE": "Q1"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67112",
+        "PLATE": "67112",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "28 May metro stansiyas\u0131 (DDYX)",
+        "CURRENT_STOP": "H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,351690500000004",
+        "LONGITUDE": "49,974993833333336",
+        "ROUTE_NAME": "28 May metro stansiyas\u0131 (DDYX) - H\u00f6vsan Ya\u015fay\u0131\u015f Kompleksi",
+        "LAST_UPDATE_TIME": 1667657362,
+        "DISPLAY_ROUTE_CODE": "175"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67081",
+        "PLATE": "67081",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Koro\u011flu NMM perron 1 dayanacaq 2",
+        "CURRENT_STOP": "Yeni Yasamal Park\u0131",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,404483333333332",
+        "LONGITUDE": "49,807525666666670",
+        "ROUTE_NAME": "Koro\u011flu NMM perron 1 dayanacaq 2 - Yeni Yasamal Park\u0131",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "7B"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67084",
+        "PLATE": "67084",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "N\u0259riman N\u0259rimanov metro stansiyas\u0131",
+        "CURRENT_STOP": "20-ci sah\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,341567166666664",
+        "LONGITUDE": "49,839406166666670",
+        "ROUTE_NAME": "N\u0259riman N\u0259rimanov metro stansiyas\u0131 - 20-ci sah\u0259",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "5"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67122",
+        "PLATE": "67122",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "N\u0259riman N\u0259rimanov metro stansiyas\u0131",
+        "CURRENT_STOP": "20-ci sah\u0259",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,382481333333331",
+        "LONGITUDE": "49,846453000000004",
+        "ROUTE_NAME": "N\u0259riman N\u0259rimanov metro stansiyas\u0131 - 20-ci sah\u0259",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "5"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67239",
+        "PLATE": "67239",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yasamal Ya\u015fay\u0131\u015f Kompleksi 29",
+        "CURRENT_STOP": "A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,372341833333330",
+        "LONGITUDE": "49,816177333333329",
+        "ROUTE_NAME": "Yasamal Ya\u015fay\u0131\u015f Kompleksi 29 - A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si",
+        "LAST_UPDATE_TIME": 1667657355,
+        "DISPLAY_ROUTE_CODE": "10"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67230",
+        "PLATE": "67230",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yasamal Ya\u015fay\u0131\u015f Kompleksi 29",
+        "CURRENT_STOP": "A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,375003166666673",
+        "LONGITUDE": "49,846454833333340",
+        "ROUTE_NAME": "Yasamal Ya\u015fay\u0131\u015f Kompleksi 29 - A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "10"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67206",
+        "PLATE": "67206",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yasamal Ya\u015fay\u0131\u015f Kompleksi 29",
+        "CURRENT_STOP": "A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,379734999999997",
+        "LONGITUDE": "49,876272000000000",
+        "ROUTE_NAME": "Yasamal Ya\u015fay\u0131\u015f Kompleksi 29 - A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si",
+        "LAST_UPDATE_TIME": 1667657360,
+        "DISPLAY_ROUTE_CODE": "10"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67217",
+        "PLATE": "67217",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yasamal Ya\u015fay\u0131\u015f Kompleksi 29",
+        "CURRENT_STOP": "A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,372512333333333",
+        "LONGITUDE": "49,796170333333336",
+        "ROUTE_NAME": "Yasamal Ya\u015fay\u0131\u015f Kompleksi 29 - A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "10"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67213",
+        "PLATE": "67213",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si",
+        "CURRENT_STOP": "Yasamal Ya\u015fay\u0131\u015f Kompleksi 29",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,372145666666668",
+        "LONGITUDE": "49,848072000000002",
+        "ROUTE_NAME": "A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si - Yasamal Ya\u015fay\u0131\u015f Kompleksi 29",
+        "LAST_UPDATE_TIME": 1667657361,
+        "DISPLAY_ROUTE_CODE": "10"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "67297",
+        "PLATE": "67297",
+        "DRIVER_NAME": "",
+        "PREV_STOP": "Yasamal Ya\u015fay\u0131\u015f Kompleksi 29",
+        "CURRENT_STOP": "A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si",
+        "SPEED": "",
+        "BUS_MODEL": "",
+        "LATITUDE": "40,367802166666671",
+        "LONGITUDE": "49,839949499999996",
+        "ROUTE_NAME": "Yasamal Ya\u015fay\u0131\u015f Kompleksi 29 - A\u011f \u015f\u0259h\u0259r M\u0259rk\u0259zi Bulvar k\u00fc\u00e7\u0259si",
+        "LAST_UPDATE_TIME": 1667657354,
+        "DISPLAY_ROUTE_CODE": "10"
+      }
+    }
+  ]
+}
