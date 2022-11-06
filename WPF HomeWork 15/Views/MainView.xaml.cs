@@ -63,7 +63,7 @@ public partial class MainView : Window
         BingMap.Children.Clear();
         lBox.Items.Clear();
         SelectedIndex = -1;
-        Pushpin pin123 = new Pushpin() { Location = new Location(40.4583, 49.7522), Content = "Resul", ToolTip = (ControlTemplate)this.FindResource("customPushPinToolTip") };
+        Pushpin pin123 = new Pushpin() { Location = new Location(40.4583, 49.7522), Content = "Resul" };
         BingMap.Children.Add(pin123);
         for (int i = 0; i < BakuBus.Buses.Count; i++)
         {
@@ -91,11 +91,13 @@ public partial class MainView : Window
 
                     if (locs is not null)
                     {
-                        MapPolyline routeLine = new MapPolyline() { Locations = locs, Stroke = new SolidColorBrush(Colors.Blue), StrokeThickness = 5 };
+                        MapPolyline routeLine = new MapPolyline() { Locations = locs, Stroke = new SolidColorBrush(Colors.Blue), StrokeThickness = 5 };                        
                         BingMap.Children.Add(routeLine);
                     }
 
-                    Pushpin pin = new Pushpin() { Location = new Location(double.Parse(BakuBus.Buses[i].Attributes.LATITUDE, NumberStyles.Float, CultureInfo.CreateSpecificCulture("fr-FR")), double.Parse(BakuBus.Buses[i].Attributes.LONGITUDE, NumberStyles.Float, CultureInfo.CreateSpecificCulture("fr-FR"))), Template = (ControlTemplate)this.FindResource("customPushPin"), Content = BakuBus.Buses[i].Attributes.DISPLAY_ROUTE_CODE, Background = new SolidColorBrush(System.Windows.Media.Color.FromArgb(255, (byte)rnd.Next(256), (byte)rnd.Next(256), (byte)rnd.Next(256))) };
+                    Pushpin pin = new Pushpin() { Tag = i, Name = "PushPin", Location = new Location(double.Parse(BakuBus.Buses[i].Attributes.LATITUDE, NumberStyles.Float, CultureInfo.CreateSpecificCulture("fr-FR")), double.Parse(BakuBus.Buses[i].Attributes.LONGITUDE, NumberStyles.Float, CultureInfo.CreateSpecificCulture("fr-FR"))), Template = (ControlTemplate)this.FindResource("customPushPin"), Content = BakuBus.Buses[i].Attributes.DISPLAY_ROUTE_CODE, Background = new SolidColorBrush(System.Windows.Media.Color.FromArgb(255, (byte)rnd.Next(256), (byte)rnd.Next(256), (byte)rnd.Next(256))) };
+                    pin.MouseEnter += PushPin_MouseEnter;
+                    pin.MouseLeave += PushPin_MouseLeave;
                     BingMap.Children.Add(pin);
                 }
             }
@@ -104,11 +106,27 @@ public partial class MainView : Window
                 if (!lBox.Items.Contains(BakuBus.Buses[i].Attributes.DISPLAY_ROUTE_CODE))
                     lBox.Items.Add(BakuBus.Buses[i].Attributes.DISPLAY_ROUTE_CODE);
                 lBox.Items.SortDescriptions.Add(new System.ComponentModel.SortDescription("", System.ComponentModel.ListSortDirection.Ascending));
-                Pushpin pin = new Pushpin() { Location = new Location(double.Parse(BakuBus.Buses[i].Attributes.LATITUDE, NumberStyles.Float, CultureInfo.CreateSpecificCulture("fr-FR")), double.Parse(BakuBus.Buses[i].Attributes.LONGITUDE, NumberStyles.Float, CultureInfo.CreateSpecificCulture("fr-FR"))), Template = (ControlTemplate)this.FindResource("customPushPin"), Content = BakuBus.Buses[i].Attributes.DISPLAY_ROUTE_CODE, Background = new SolidColorBrush(System.Windows.Media.Color.FromArgb(255, (byte)rnd.Next(256), (byte)rnd.Next(256), (byte)rnd.Next(256))) };
+                Pushpin pin = new Pushpin() { Tag = i, Name = "PushPin", Location = new Location(double.Parse(BakuBus.Buses[i].Attributes.LATITUDE, NumberStyles.Float, CultureInfo.CreateSpecificCulture("fr-FR")), double.Parse(BakuBus.Buses[i].Attributes.LONGITUDE, NumberStyles.Float, CultureInfo.CreateSpecificCulture("fr-FR"))), Template = (ControlTemplate)this.FindResource("customPushPin"), Content = BakuBus.Buses[i].Attributes.DISPLAY_ROUTE_CODE, Background = new SolidColorBrush(System.Windows.Media.Color.FromArgb(255, (byte)rnd.Next(256), (byte)rnd.Next(256), (byte)rnd.Next(256))) };
+                pin.MouseEnter += PushPin_MouseEnter;
+                pin.MouseLeave += PushPin_MouseLeave;
                 BingMap.Children.Add(pin);
             }
         }
     }
+
+    private void PushPin_MouseEnter(object sender, System.Windows.Input.MouseEventArgs e)
+    {
+        Popup.IsOpen = false;
+        var obj = (sender as Pushpin).Tag;
+        int index = int.Parse(obj.ToString());
+        Popup.IsOpen = true;
+        PopuptBoxRoute.Text = BakuBus.Buses[index].Attributes.ROUTE_NAME;
+        PopuptBoxPlate.Text = BakuBus.Buses[index].Attributes.PLATE;
+        PopuptBoxCari.Text = $"Cari: {BakuBus.Buses[index].Attributes.CURRENT_STOP}";
+        PopuptBoxNext.Text = $"Next: {BakuBus.Buses[index].Attributes.PREV_STOP}";
+    }
+
+    private void PushPin_MouseLeave(object sender, System.Windows.Input.MouseEventArgs e) => Popup.IsOpen = false;
 
     async void GetBusListAsync()
     {

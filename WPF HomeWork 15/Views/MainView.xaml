@@ -8,11 +8,26 @@
         mc:Ignorable="d"
         Title="BakuBus" MinHeight="450" MinWidth="800" Loaded="Window_Loaded" WindowStartupLocation="CenterOwner">
     <Window.Resources>
-        <ControlTemplate x:Key="customPushPinToolTip" TargetType="ToolTip">
-            <Grid Width="200" Height="200" Background="DeepSkyBlue">
+        <Style x:Key="ToolTipStyle" TargetType="{x:Type ToolTip}">
+            <Setter Property="OverridesDefaultStyle" Value="True"/>
+            <Setter Property="SnapsToDevicePixels" Value="True"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="BorderBrush" Value="#2D2D2D"/>
+            <Setter Property="Background"  Value="#000000" />
+            <Setter Property="Foreground" Value="#FFFFFF"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ToolTip}">
+                        <Grid Background="Red" Width="200" Height="200">
+                            <TextBlock>Salam</TextBlock>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
 
-            </Grid>
-        </ControlTemplate>
+        <!-- Defines the customized tooltip. -->
+        <ToolTip x:Key="CustomToolTip" Style="{StaticResource ToolTipStyle}"/>
 
         <ControlTemplate x:Key="customPushPin" TargetType="map:Pushpin">
             <Grid>
@@ -33,6 +48,20 @@
     <Grid>
         <map:Map Name="BingMap" ZoomLevel="11" Center="40.4093, 49.8671"/>
         <ListBox x:Name="lBox" Margin="10" Background="Transparent" Width="200" Height="100" HorizontalAlignment="Left" SelectionChanged="ListBox_SelectionChanged"/>
-        <Button Background="Transparent" Width="125" Height="50" FontSize="16" Content="Clear Selection" HorizontalAlignment="Left" Margin="40, 200, 0, 0" Click="Button_Click"></Button>
+        <Button ToolTip="{StaticResource CustomToolTip}" BorderThickness="3" Name="TempBtn" ToolTipService.InitialShowDelay="0" Background="Transparent" Width="125" Height="50" FontSize="16" Content="Clear Selection" HorizontalAlignment="Left" Margin="40, 200, 0, 0" Click="Button_Click"/>
+        <Popup x:Name="Popup" Placement="Mouse" AllowsTransparency="True">
+            <Border Width="250" Height="300" CornerRadius="50" Background="White">
+                <Grid Background="Transparent" Width="220" Height="280">
+                    <StackPanel>
+                        <TextBlock x:Name="PopuptBoxPlate" FontSize="15" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="Black" TextWrapping="Wrap"/>
+                        <TextBlock x:Name="PopuptBoxRoute" FontSize="15" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="Black" TextWrapping="Wrap"/>
+                        <Image Source="/Assets/Images/Bus.jpg"></Image>
+                        <TextBlock Margin="10" x:Name="PopuptBoxCari" FontSize="15" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="Black" TextWrapping="Wrap"/>
+                        <TextBlock x:Name="PopuptBoxNext" FontSize="15" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="Black" TextWrapping="Wrap"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+            
+        </Popup>
     </Grid>
 </Window>
